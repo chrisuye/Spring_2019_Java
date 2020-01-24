@@ -1,0 +1,9 @@
+n m
+i j
+tmp x
+for(i=0; i^3<n*m; i*=2) {
+for(j=0; j^4<n; j++) {
+tmp = tmp + 3;
+x--;
+}
+}

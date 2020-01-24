@@ -1,0 +1,21 @@
+16 Mar 2019 4:50:41 GMT: Log 'EclipseCompiler.txt' opened: 16 Mar 2019 4:50:41 GMT with name C:\Users\chris\Desktop\Spring 2019\COSC 336\Project\EclipseCompiler.txt
+16 Mar 2019 4:52:05 GMT: diagnostics = javax.tools.DiagnosticCollector@1d9b693
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@eecdfe
+fileObjects = [C:\Users\chris\Desktop\Spring 2019\COSC 336\Project\Project.java]
+16 Mar 2019 4:52:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a3fc45' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\chris\Desktop\Spring 2019\COSC 336\Project;C:\DrJava\drjava-beta-20160913-225446.exe]
+16 Mar 2019 4:52:09 GMT: Compiler call returned
+16 Mar 2019 4:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27d88
+16 Mar 2019 4:52:09 GMT:  Kind = WARNING
+16 Mar 2019 4:52:09 GMT: Name = C:\Users\chris\Desktop\Spring 2019\COSC 336\Project\Project.java LineNo = 3 ColNo = 8 Msg = 'The import java.lang is never used'
+16 Mar 2019 4:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b06ac8
+16 Mar 2019 4:52:09 GMT:  Kind = WARNING
+16 Mar 2019 4:52:09 GMT: Name = C:\Users\chris\Desktop\Spring 2019\COSC 336\Project\Project.java LineNo = 24 ColNo = 15 Msg = 'Resource leak: 'ifsInput' is never closed'
+16 Mar 2019 4:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11db1ab
+16 Mar 2019 4:52:09 GMT:  Kind = WARNING
+16 Mar 2019 4:52:09 GMT: Name = C:\Users\chris\Desktop\Spring 2019\COSC 336\Project\Project.java LineNo = 16 ColNo = 13 Msg = 'Resource leak: 'cin' is never closed'
+16 Mar 2019 4:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@197cc6a
+16 Mar 2019 4:52:09 GMT:  Kind = WARNING
+16 Mar 2019 4:52:09 GMT: Name = C:\Users\chris\Desktop\Spring 2019\COSC 336\Project\Project.java LineNo = 9 ColNo = 12 Msg = 'The value of the local variable estimate is not used'
+16 Mar 2019 4:52:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@230b52
+16 Mar 2019 4:52:09 GMT:  Kind = WARNING
+16 Mar 2019 4:52:09 GMT: Name = C:\Users\chris\Desktop\Spring 2019\COSC 336\Project\Project.java LineNo = 11 ColNo = 12 Msg = 'The value of the local variable variables is not used'
